@@ -12,10 +12,11 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "chai": "^5.1.0",
-    "mocha": "^10.4.0"
+    "chai": "*",
+    "mocha": "*"
   },
   "dependencies": {
+    "chai-http": "^4.4.0",
     "express": "^4.19.2"
   }
 }
